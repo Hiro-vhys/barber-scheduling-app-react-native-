@@ -2,11 +2,22 @@
   "name": "barber-scheduling-app-react-native",
   "displayName": "barber-scheduling-app-react-native",
   "expo": {
-    "name": "barber-scheduling-app-react-native",
-    "slug": "barber-scheduling-app-react-native",
-    "version": "1.0.0",
-    "assetBundlePatterns": [
-      "**/*"
-    ]
+    "packagerOpts": {
+      "config": "metro.config.js",
+      "sourceExts": [
+        "expo.ts",
+        "expo.tsx",
+        "expo.js",
+        "expo.jsx",
+        "ts",
+        "tsx",
+        "js",
+        "jsx",
+        "json",
+        "wasm",
+        "svg"
+      ]
+    }
   }
 }
+
