@@ -1,0 +1,12 @@
+{
+  "name": "barber-scheduling-app-react-native",
+  "displayName": "barber-scheduling-app-react-native",
+  "expo": {
+    "name": "barber-scheduling-app-react-native",
+    "slug": "barber-scheduling-app-react-native",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
